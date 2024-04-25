@@ -36,12 +36,6 @@
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
 This project is [CC0 1.0 Universal](LICENSE) licensed.
