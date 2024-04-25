@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# CHAT EN LINEA EN PHP Y MYSQL
 
 > One paragraph statement about the project.
 
@@ -17,6 +17,22 @@ Additional description about the project and its features.
 ## Live Demo
 
 [Live Demo Link](https://chatenlineaconphpymysql.000webhostapp.com/index.php)
+
+**como probar el proyecto:
+
+1.importe el archivo "chat.sql" a PHPMyAdmin
+
+2. mover la carpeta del proyecto a la siguiente ruta en windows "C:\Xampp\htdocs"
+ 
+3.ingrese a https://LocalHost/proyecto-final-uneweb en su navegador
+
+4. ingrese con los usuarios disponibles, estos siendo:
+
+admin1@localhost.com
+admin2@localhot.com
+
+contraseña por defecto de los 2 usuario es: Martina
+**
 
 
 ## Getting Started
