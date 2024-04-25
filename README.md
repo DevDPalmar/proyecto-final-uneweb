@@ -1,69 +1,40 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# CHAT EN LINEA EN PHP Y MYSQL
 
-> One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
 
 ## Live Demo
 
 [Live Demo Link](https://chatenlineaconphpymysql.000webhostapp.com/index.php)
 
+## como probar el proyecto:
 
-## Getting Started
+1. importe el archivo "chat.sql" a PHPMyAdmin
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+2. mover la carpeta del proyecto a la siguiente ruta en windows "C:\Xampp\htdocs"
+ 
+3.ingrese a https://LocalHost/proyecto-final-uneweb en su navegador
 
+4. ingrese con los usuarios disponibles, estos siendo:
 
-To get a local copy up and running follow these simple example steps.
+- admin1@localhost.com
+- admin2@localhot.com
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+**contraseña por defecto de los 2 usuario es: Martina**
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Diego Enrique Palmar Montiel**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@DevDPalmar](https://github.com/DevDPalmar)
+- Instagram: [@palmardiego2004](https://www.instagram.com/palmardiego2004)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
