@@ -28,8 +28,8 @@
 
 👤 **Diego Enrique Palmar Montiel**
 
-- GitHub: @DevDPalmar (https://github.com/DevDPalmar)
-- Instagram @palmardiego2004 (palmardiego2004)
+- GitHub: [@DevDPalmar](https://github.com/DevDPalmar)
+- Instagram: [@palmardiego2004](https://www.instagram.com/palmardiego2004)
 
 
 ## Show your support
