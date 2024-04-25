@@ -18,7 +18,7 @@ Additional description about the project and its features.
 
 [Live Demo Link](https://chatenlineaconphpymysql.000webhostapp.com/index.php)
 
-**como probar el proyecto:
+##como probar el proyecto:
 
 1.importe el archivo "chat.sql" a PHPMyAdmin
 
@@ -28,11 +28,11 @@ Additional description about the project and its features.
 
 4. ingrese con los usuarios disponibles, estos siendo:
 
-admin1@localhost.com
-admin2@localhot.com
+-admin1@localhost.com
+-admin2@localhot.com
 
-contraseña por defecto de los 2 usuario es: Martina
-**
+**contraseña por defecto de los 2 usuario es: Martina**
+
 
 
 ## Getting Started
@@ -59,11 +59,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 ****
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: 
+- Twitter: 
+- LinkedIn: 
 
 ## 🤝 Contributing
 
